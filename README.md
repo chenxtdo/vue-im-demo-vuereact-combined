@@ -1,5 +1,5 @@
 # vue-im-demo
-
+> vue 下 imuikit 跟 callkit demo
 ## Project setup
 ```
 npm install
@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 注意
+**请注意 `@xkit-yx/im-kit-ui@0.2.0` 版本，只适用呼叫组件 `@xkit-yx/call-kit-react-ui@0.1.7 @xkit-yx/call-kit@1.6.5` 版本**
+<br/>
+具体参考 `package.json` 下的版本依赖
